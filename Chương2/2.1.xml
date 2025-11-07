@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CongTy>
+    
+    <TenGiamDoc>Nguyễn Văn A</TenGiamDoc>
+    
+    <DiaChi>
+        <SoNhaDuong>123 Đường ABC</SoNhaDuong>
+        <Phuong>Phường X</Phuong>
+        <Quan>Quận Y</Quan>
+        <ThanhPho>Thành phố Z</ThanhPho>
+    </DiaChi>
+    
+    <DienThoai>0987654321</DienThoai>
+    
+    <MaSoThue>0123456789</MaSoThue>
+
+</CongTy>

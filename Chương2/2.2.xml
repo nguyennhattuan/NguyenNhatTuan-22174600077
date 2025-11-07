@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DanhSachSinhVien>
+
+    <SinhVien>
+        <MaSinhVien>SV001</MaSinhVien>
+        <TenSinhVien>Nguyễn Văn An</TenSinhVien>
+        <NamSinh>2003</NamSinh>
+        <Lop>CNTT-K65</Lop>
+        <GioiTinh>Nam</GioiTinh>
+    </SinhVien>
+
+    <SinhVien>
+        <MaSinhVien>SV002</MaSinhVien>
+        <TenSinhVien>Trần Thị Bích</TenSinhVien>
+        <NamSinh>2004</NamSinh>
+        <Lop>KHMT-K66</Lop>
+        <GioiTinh>Nữ</GioiTinh>
+    </SinhVien>
+
+    <SinhVien>
+        <MaSinhVien>SV003</MaSinhVien>
+        <TenSinhVien>Lê Văn C</TenSinhVien>
+        <NamSinh>2003</NamSinh>
+        <Lop>CNTT-K65</Lop>
+        <GioiTinh>Nam</GioiTinh>
+    </SinhVien>
+
+</DanhSachSinhVien>

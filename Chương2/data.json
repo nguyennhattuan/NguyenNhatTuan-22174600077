@@ -1,0 +1,16 @@
+{
+  "ten_cong_ty": "Công ty TNHH Đất Việt",
+  "dia_chi": "abc Giải Phóng - Hà Nội.",
+  "danh_sach_nhan_vien": [
+    { "id": "NV001", "ten": "Lê Văn A", "don_vi": "Đơn vị A1" },
+    { "id": "NV002", "ten": "Trần Thị B", "don_vi": "Đơn vị A2" },
+    { "id": "NV003", "ten": "Nguyễn Văn C", "don_vi": "Đơn vị A1" },
+    { "id": "NV004", "ten": "Nguyễn Nhật D", "don_vi": "Đơn vị A3" },
+    { "id": "NV005", "ten": "Bùi Thu E", "don_vi": "Đơn vị A2" },
+    { "id": "NV006", "ten": "Đỗ Gia F", "don_vi": "Đơn vị A1" },
+    { "id": "NV007", "ten": "Hoàng Văn G", "don_vi": "Đơn vị A4" },
+    { "id": "NV008", "ten": "Hồ Đình H", "don_vi": "Đơn vị A3" },
+    { "id": "NV009", "ten": "Vũ Ngọc K", "don_vi": "Đơn vị A1" },
+    { "id": "NV010", "ten": "Lê Thị L", "don_vi": "Đơn vị A5" }
+  ]
+}
